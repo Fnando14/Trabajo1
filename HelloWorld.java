@@ -1,5 +1,5 @@
 class HelloWorld {
    public static void printHola(){
-   System.out.println("Ciao mondo!");
+   System.out.println("Hej världen!");
    }
 }
